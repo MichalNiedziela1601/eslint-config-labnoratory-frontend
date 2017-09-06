@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-labnoratory-frontend",
+  "version": "1.0.1",
+  "description": "eslint rules for frontend with angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslinconfig"
+  ],
+  "author": "",
+  "license": "ISC"
+}
